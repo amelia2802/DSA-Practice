@@ -9,7 +9,7 @@
  * 
  * @author Amazon
  * 
- * T.C:
+ * T.C: 
  * S.C:
  * ```Topic:Stack & Heap```
  */
